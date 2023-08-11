@@ -133,4 +133,5 @@ dist
 
 # ETC
 .DS_Store
-db/app.db
+db/*.db
+build
